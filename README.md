@@ -1,7 +1,9 @@
 # PUT
 This PowerShell script, labeled as version 6.13.0, serves as a utility toolkit for handling common Active Directory (AD) tasks. It's designed to assist service technicians in managing user accounts efficiently. Here's a breakdown of its main features and functionality:
 
-GUI Interface: The script utilizes a graphical user interface (GUI) built with Windows Forms to provide an interactive experience for the user.
+Please use PUT.lnk shortcut to run tool.
+
+GUI Interface: The script utilizes a graphical user interface (GUI) built with .Net to provide an interactive experience for the user.
 
 Functionality:
 
